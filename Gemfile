@@ -16,6 +16,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'puma'
 gem 'faye-rails'
 gem 'devise'
+gem 'rails_12factor'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
